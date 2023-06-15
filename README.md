@@ -1,4 +1,7 @@
 # Commander
+- Description: Commander is a meticulously crafted process management library, designed with an intuitive and user-friendly approach. I have personally developed this library for my projects, harnessing the power of Qt6. Commander provides developers with efficient and effective process management capabilities, enabling seamless control and handling of processes within their applications.
+- Technologies used: C++, Qt6
+
 Commander simplifies process management tasks. 
 You can issue commands to the shell as child processes. 
 Here are the key features of Commander:
